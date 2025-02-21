@@ -1,2 +1,2 @@
 # gopkg
-testing go pkg
+Go lang module testing extension
