@@ -1,4 +1,4 @@
-package mulfile
+package gopkg
 
 import "fmt"
 
