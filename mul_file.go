@@ -1,4 +1,4 @@
-package mul
+package mulfile
 
 import "fmt"
 

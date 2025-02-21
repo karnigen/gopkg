@@ -1,3 +1,3 @@
-module mul
+module mulmod
 
 go 1.24.0
